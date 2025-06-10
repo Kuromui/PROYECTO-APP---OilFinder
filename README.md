@@ -36,7 +36,7 @@ App Android para comparar precios de carburantes según tu ubicación. Diseñada
 
 ## 📦 APK
 
-[🔗 Descargar APK](./apk/oilfinder.apk)
+[🔗 Descargar APK](apk/app-debug.apk)
 
 ---
 
