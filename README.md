@@ -30,7 +30,7 @@ App Android para comparar precios de carburantes según tu ubicación. Diseñada
 
 | Registro | Login | Menu | Detalles coche + ticket || Inicio | Perfil | Detalle + Mapa |
 |--------|----------------------|----------------|
-| ![registro](./img/registro.jpg) | ![login](./img/login.jpg) | ![menu](./img/menu.jpg) | ![detalleCoche](./img/coche.jpg) || ![inicio](./img/inicio.jpg) | ![perfil](./img/Perfil.jpg) | ![detalleMapa](./img/mapa.jpg) |
+| ![registro](img/registro.PNG) | ![login](img/login.PNG) | ![menu](img/menu.png) | ![detalleCoche](img/coche.PNG) || ![inicio](img/inicio.PNG) | ![perfil](img/Perfil.PNG) | ![detalleMapa](img/mapa.PNG) |
 
 ---
 
